@@ -1,0 +1,12 @@
+{
+  "name": "@openai/harmony-demo",
+  "version": "0.1.0",
+  "description": "Demo for the harmony response format renderer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@openai/harmony": "^0.1.0"
+  }
+}
